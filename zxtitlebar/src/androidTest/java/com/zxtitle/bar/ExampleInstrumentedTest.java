@@ -1,4 +1,4 @@
-package com.zx.titlebar;
+package com.zxtitle.bar;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.zx.titlebar", appContext.getPackageName());
+        assertEquals("com.zxtitle.bar.test", appContext.getPackageName());
     }
 }

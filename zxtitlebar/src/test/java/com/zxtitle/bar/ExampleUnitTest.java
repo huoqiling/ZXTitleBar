@@ -1,4 +1,4 @@
-package com.zx.titlebar;
+package com.zxtitle.bar;
 
 import org.junit.Test;
 
